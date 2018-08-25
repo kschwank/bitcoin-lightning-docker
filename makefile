@@ -1,4 +1,4 @@
-IMAGE_NAME = kschwank/bitcoin-lightningnode
+IMAGE_NAME = kschwank/bitcoin-lightning-docker
 CONTAINER_NAME = lightningnode
 
 image:
